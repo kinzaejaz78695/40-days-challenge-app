@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_community.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_community.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_theme.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_theme.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_topcolors.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_topcolors.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_share.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_share.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_notificationsfab.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_notificationsfab.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_pinknotificationstab.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_pinknotificationstab.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_avatar7.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_avatar7.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_pauseicon.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_pauseicon.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_splash2.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_splash2.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_avatar.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_bottomcolors.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_bottomcolors.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_cloudstorage.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_cloudstorage.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_forwardsong.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_forwardsong.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_hideimg.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_hideimg.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\raw_src_assets_songs_piya_o_re_piya.mp3.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_assets_songs_piya_o_re_piya.mp3"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_tabplayicon.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_tabplayicon.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_threedots.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_threedots.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_bottomright.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_bottomright.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_backbutton.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_backbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_avatar6.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_avatar6.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_splash3.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_splash3.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_alert.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_writenotes.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_writenotes.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\raw_src_assets_songs_tere_liye.mp3.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_assets_songs_tere_liye.mp3"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_searchicon.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_searchicon.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_heartempty.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_heartempty.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_restartfab.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_restartfab.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_heartred.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_heartred.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_profiletab.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_profiletab.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_iconforward.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_iconforward.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_pinkprofiletab.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_pinkprofiletab.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_avatar4.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_avatar4.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_splash1.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_splash1.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_musicpause.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_musicpause.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_topleft.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_topleft.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_avatar1.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_avatar1.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_thirdgender.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_thirdgender.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_musicplay.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_musicplay.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_drawericon.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_drawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_avatar3.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_avatar3.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_backup.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_backup.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_destroyicon.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_destroyicon.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_dnotification.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_dnotification.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_dshare.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_dshare.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_recovery.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_recovery.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_bottomleft.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_bottomleft.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_next.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_next.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_logout.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_avatar2.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_avatar2.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_iconfab.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_iconfab.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_keepsakes.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_keepsakes.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_crossfab.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_crossfab.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_dupdate.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_dupdate.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_pinkchallengetab.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_pinkchallengetab.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_female.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_female.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\raw_src_assets_songs_tera_hone_laga_hoon.mp3.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_assets_songs_tera_hone_laga_hoon.mp3"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_relaxingtab.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_relaxingtab.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_challengetab.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_challengetab.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_topright.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_topright.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_avatar8.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_avatar8.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_pinkrelaxingtab.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_pinkrelaxingtab.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_whiteeditpencil.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_whiteeditpencil.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_backwardsong.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_backwardsong.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable_rn_edit_text_material.xml.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\src\\main\\res\\drawable\\rn_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_tree.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_tree.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_avatar5.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_avatar5.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_coins.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_coins.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_darkmode.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_darkmode.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_hidechallenge.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_hidechallenge.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_hidefab.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_hidefab.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_male.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_male.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_fullscreencolors.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_fullscreencolors.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_activechallenge.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_activechallenge.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_musicpic.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_musicpic.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_yellowlock.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_yellowlock.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_prev.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_prev.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_wallpaper.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_wallpaper.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_addemoji.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_addemoji.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_notificationstab.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_notificationstab.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_allcolors.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_allcolors.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_blurview.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_blurview.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_themeselected.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_themeselected.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_ddelete.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_ddelete.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_closeemoji.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_closeemoji.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_addfab.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_addfab.png"
+    },
+    {
+        "merged": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_runner.png.flat",
+        "source": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_runner.png"
+    }
+]
