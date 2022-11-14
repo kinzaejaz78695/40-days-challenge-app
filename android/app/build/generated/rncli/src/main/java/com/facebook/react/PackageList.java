@@ -13,6 +13,8 @@ import java.util.ArrayList;
 
 // react-native-vector-icons
 import com.oblador.vectoricons.VectorIconsPackage;
+// @react-native-async-storage/async-storage
+import com.reactnativecommunity.asyncstorage.AsyncStoragePackage;
 // @react-native-community/blur
 import com.reactnativecommunity.blurview.BlurViewPackage;
 // @react-native-community/datetimepicker
@@ -21,6 +23,8 @@ import com.reactcommunity.rndatetimepicker.RNDateTimePickerPackage;
 import com.reactnativecommunity.slider.ReactSliderPackage;
 // react-native-date-picker
 import com.henninghall.date_picker.DatePickerPackage;
+// react-native-device-info
+import com.learnium.RNDeviceInfo.RNDeviceInfo;
 // react-native-fast-image
 import com.dylanvann.fastimage.FastImageViewPackage;
 // react-native-gesture-handler
@@ -85,10 +89,12 @@ public class PackageList {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
       new VectorIconsPackage(),
+      new AsyncStoragePackage(),
       new BlurViewPackage(),
       new RNDateTimePickerPackage(),
       new ReactSliderPackage(),
       new DatePickerPackage(),
+      new RNDeviceInfo(),
       new FastImageViewPackage(),
       new RNGestureHandlerPackage(),
       new PickerPackage(),

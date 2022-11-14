@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\INFOTECH\\Documents\\GitHub\\40 days latest\\fortydayschallenge\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "outputFile": "D:\\kkk\\40-days-challenge-app\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\INFOTECH\\.gradle\\caches\\transforms-3\\2fe4c7b1fbcb41e9424181fd749ff51c\\transformed\\jetified-ucrop-2.2.6-native\\res\\values-zh\\values-zh.xml",
+                    "source": "C:\\Users\\kinza\\.gradle\\caches\\transforms-3\\67d14056b295b403e729babe71a271e9\\transformed\\jetified-ucrop-2.2.6-native\\res\\values-zh\\values-zh.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
