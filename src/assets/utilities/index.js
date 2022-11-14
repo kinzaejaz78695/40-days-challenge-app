@@ -39,7 +39,10 @@ const appImages = {
   topright: require(IMAGES_DIR + 'topright.png'),
   bottomleft: require(IMAGES_DIR + 'bottomleft.png'),
   bottomright: require(IMAGES_DIR + 'bottomright.png'),
+
   drawericon: require(IMAGES_DIR + 'drawericon.png'),
+  drawericon1: require(IMAGES_DIR + 'drawericon1.png'),
+
   iconforward: require(IMAGES_DIR + 'iconforward.png'),
   addemoji: require(IMAGES_DIR + 'addemoji.png'),
   closeemoji: require(IMAGES_DIR + 'closeemoji.png'),

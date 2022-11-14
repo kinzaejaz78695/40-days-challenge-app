@@ -14,6 +14,7 @@ import {
 import React, {useState, useEffect, useRef} from 'react';
 import FastImage from 'react-native-fast-image';
 import {appImages} from '../../../assets/utilities';
+import Icon from 'react-native-vector-icons/FontAwesome';
 import {
   responsiveFontSize,
   responsiveHeight,
@@ -83,6 +84,7 @@ const GoodMorning = props => {
           {backgroundColor: isdarkmode ? soliddark : solid},
         ]}
         onPress={() => props.navigation.navigate('ChallengeName')}>
+        
         <FastImage
           source={appImages.runner}
           style={styles.runnerimg}
@@ -107,14 +109,10 @@ const GoodMorning = props => {
             }}
             rippleColor="rgba(0, 0, 0, .1)"
             style={styles.drawerview}>
-            <Image
-              source={appImages.drawericon}
-              resizeMode="contain"
-              style={[
-                styles.drawericonstyle,
-                {tintColor: isdarkmode ? '#fff' : '#000'},
-              ]}
-            />
+             <TouchableOpacity style={styles.drawericonstyle} >
+                        {/* <Image source={left1} style={styles.left} /> */}
+                        <Icon name="align-justify" size={20} color={'white'} />
+                    </TouchableOpacity>
           </TouchableRipple>
           <View
             style={{
@@ -130,7 +128,14 @@ const GoodMorning = props => {
             />
           </View>
         </View>
+        <ScrollView>
         <View>
+          <Text>
+            -
+          </Text>
+          <Text>
+            -
+          </Text>
           <FastImage
             source={appImages.avatar}
             resizeMode="contain"
@@ -139,7 +144,7 @@ const GoodMorning = props => {
           <Text style={styles.txt1}>Good Morning</Text>
           <Text style={styles.txt2}>Rose</Text>
           <Text
-            style={[styles.loremtxt, {color: isdarkmode ? '#fff' : '#000'}]}>
+            style={[styles.loremtxt]}>
             Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
             nonumy
           </Text>
@@ -157,6 +162,7 @@ const GoodMorning = props => {
             numColumns={2}
           />
         </View>
+        </ScrollView>
       </LinearGradient>
     </SafeAreaView>
   );
@@ -182,8 +188,10 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
   },
   drawericonstyle: {
-    width: responsiveWidth(6.5),
-    height: responsiveWidth(6.5),
+    width: responsiveWidth(9.5),
+    height: responsiveWidth(9.5),
+    bottom:1
+    // borderRadius:50
   },
   drawerview: {
     // backgroundColor: 'red',
@@ -194,11 +202,13 @@ const styles = StyleSheet.create({
   coinstyle: {
     width: responsiveWidth(7),
     height: responsiveWidth(7),
+    bottom:10
   },
   cointxt: {
     color: '#fff',
     fontSize: responsiveFontSize(2.1),
     fontFamily: fontFamily.Sans_Regular,
+    bottom:10
   },
   avatarstyle: {
     width: responsiveWidth(17),
@@ -228,6 +238,7 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
     marginTop: responsiveHeight(1),
     // backgroundColor: 'red',
+    color: '#fff',
     width: responsiveWidth(90),
     marginBottom: responsiveHeight(2),
   },

@@ -34,7 +34,7 @@ import intro from '../NewScreens/Images/Intro.png'
 
 import { DeviceInfo, getApplicationName, getBrand, getUniqueId, getManufacturer, getDeviceId } from 'react-native-device-info';
 LogBox.ignoreAllLogs();
-const Introduction = () => {
+const Introduction = ({navigation}) => {
     const [gender, setGender] = useState('');
     const [name, setname] = useState('')
     const asy = async () => {
@@ -50,9 +50,10 @@ const Introduction = () => {
             AsyncStorage.setItem('user', JSON.stringify(obj));
             let user = await AsyncStorage.getItem('user');
             let parsed = JSON.parse(user);
-            alert(parsed.name);
-            alert(parsed.gender);
-            alert(parsed.deviceid);
+            navigation.navigate("GoodMorning")
+            // alert(parsed.name);
+            // alert(parsed.gender);
+            // alert(parsed.deviceid);
             // alert(name)
             // props.navigation.goBack()
         } catch (e) {

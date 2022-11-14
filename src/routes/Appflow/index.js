@@ -26,6 +26,7 @@ import {
 import React from 'react';
 import {createStackNavigator} from '@react-navigation/stack';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
+import { NavigationContainer } from '@react-navigation/native';
 import {
   responsiveHeight,
   responsiveFontSize,
@@ -38,6 +39,8 @@ import FastImage from 'react-native-fast-image';
 import {fontFamily} from '../../constants/fonts';
 import {createDrawerNavigator} from '@react-navigation/drawer';
 import CustomDrawer from '../CustomDrawer';
+import Introduction from '../../NewScreens/Introduction'
+import Start from '../../NewScreens/Start'
 const styles = StyleSheet.create({
   mainbottom: {
     height: responsiveHeight(9),
@@ -95,6 +98,8 @@ const styles = StyleSheet.create({
   },
 });
 const AppStack = createStackNavigator();
+
+const Stack = createStackNavigator();
 const TabStack = createBottomTabNavigator();
 const MusicTabStack = createStackNavigator();
 const NotificationTabStack = createStackNavigator();
@@ -278,12 +283,74 @@ const Tab = props => {
   );
 };
 
+
+
+
+
+
+
+
+
+
+
+
+function stacke(){ 
+  return (
+   <Stack.Navigator
+      screenOptions={{
+        headerMode: 'screen',
+        headerTintColor: 'white',
+        headerStyle: { backgroundColor: '#7E354D' }
+        ,headerTitleAlign:'center',
+        // headerShown: false
+      }}>
+        <Stack.Screen name="Start" 
+      component={Start} 
+      options={{
+      headerTitleStyle: {fontWeight: 'bold',},
+      headerShown: false
+      }}/>
+      <Stack.Screen name="Introduction" 
+      component={Introduction} 
+      options={{
+      // headerTitleStyle: {fontWeight: 'bold',},
+      headerShown: false
+      }}/>
+       <Stack.Screen name="GoodMorning" 
+      component={Tab} 
+      options={{
+      // headerTitleStyle: {fontWeight: 'bold',},
+      headerShown: false
+      }}/>
+  
+   
+        {/* ************************************************ */}
+    </Stack.Navigator>
+  )
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const MyDrawer = () => {
   return (
     <MyDrawerStack.Navigator
       drawerContent={props => <CustomDrawer {...props} />}
       screenOptions={{
         keyboardDismissMode: 'on-drag',
+
         headerShown: false,
         overlayColor: 'rgba(0,0,0,0.5)',
         drawerType: 'slide',
@@ -300,7 +367,8 @@ const App = () => {
       screenOptions={{
         headerShown: false,
       }}>
-      <AppStack.Screen name="MyTab" component={Tab} />
+       
+      <AppStack.Screen name="MyTab" component={stacke} />
       {/* <MyDrawerStack.Screen name="MyDrawer" component={MyDrawer} /> */}
       <AppStack.Screen name={'ChallengeName'} component={ChallengeName} />
       <AppStack.Screen name={'ChallengeList'} component={ChallengeList} />

@@ -36,7 +36,7 @@ const images = [
 const WIDTH = Dimensions.get('window').width;
 const HEIGHT = Dimensions.get('window').height;
 
-const App = () => {
+const App = ({navigation}) => {
     const [imgActive, setimgActive] = useState(0)
     onChange = (nativeEvent) => {
         if (nativeEvent) {
@@ -45,6 +45,9 @@ const App = () => {
                 setimgActive(slider)
             }
         }
+    }
+    const next = () => {
+        navigation.navigate("Introduction")
     }
     return (
         <SafeAreaView style={StyleSheet.container}>
@@ -82,7 +85,7 @@ const App = () => {
                         {/* <Image source={left1} style={styles.left} /> */}
                         <Icon name="arrow-left" size={40} color={'white'} />
                     </TouchableOpacity>
-                    <TouchableOpacity style={styles.right} >
+                    <TouchableOpacity style={styles.right} onPress={()=> next()}>
                         {/* <Image source={right1} style={styles.right} /> */}
                         <Icon name="arrow-right" size={40} color={'white'}/>
                     </TouchableOpacity>
@@ -111,14 +114,14 @@ const styles = StyleSheet.create({
         // flex:0.2,
         width: 300,
         // height: HEIGHT * 0.25
-        height: 300,
+        height: 350,
         left: 13,
         top: 3
     },
     wrapDot: {
         position: 'absolute',
         // bottom: 0,
-        top: 560,
+        top: 680,
         flexDirection: 'row',
         alignSelf: 'center'
     },
@@ -153,7 +156,7 @@ left:20,
     left: {
         width: 80,
         height: 40,
-        top: 130,
+        top: 180,
         backgroundColor:'#cc3366',
         justifyContent: 'center',
         // alignSelf:'center',
@@ -164,7 +167,7 @@ left:20,
     right: {
         width: 80,
         height: 40,
-        top: 90,
+        top: 140,
         left: 250,backgroundColor:'#cc3366',
         alignItems:'center',justifyContent:'center' 
     },

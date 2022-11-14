@@ -24,6 +24,8 @@ import EditAvatar from './Appflow/EditAvatar';
 import Wallpapers from './Appflow/Wallpapers';
 import Backup from './Appflow/Backup';
 import BackupAndRestore from './Appflow/BackupAndRestore';
+import start from '../NewScreens/Introduction'
+import intro from '../NewScreens/Start'
 
 export {
   GoodMorning,
@@ -49,6 +51,8 @@ export {
   Wallpapers,
   Backup,
   BackupAndRestore,
+  start,
+  intro
 };
 
 export {Splash, SliderScreen, IntroduceYourself};
